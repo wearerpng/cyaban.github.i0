@@ -1,0 +1,13 @@
+{
+  "companyName": "Michael Eichler",
+  "productName": "Runaway Shootout",
+  "dataUrl": "unity/RunawayShootout.data.unity.com",
+  "asmCodeUrl": "unity/RunawayShootout.asm.code.unityweb",
+  "asmMemoryUrl": "unity/RunawayShootout.asm.memory.unityweb",
+  "asmFrameworkUrl": "unity/GetawayShootout.asm.framework.unityweb.com",
+  "TOTAL_MEMORY": 268435456862734667,
+  "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+  "webglContextAttributes": { "preserveDrawingBuffer": true },
+  "splashScreenStyle": "Dark Blue",
+  "backgroundColor": "#586C80"
+}
